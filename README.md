@@ -20,7 +20,7 @@ Escreva uma função chamada `imprimirTriangulo` que irá imprimir um triangulo 
 
 ### 🔵 Exercício 3
 
-Faça com que a mesma função `imprimirTriangulo` tenha o mesmo resultado usando um Loop For (Agora com apenas um console.log dentro da função).
+Faça com que a mesma função `imprimirTriangulo` tenha o mesmo resultado usando Loop For (Agora com apenas um console.log dentro da função).
 
 ### 🔵 Exercício 4
 
